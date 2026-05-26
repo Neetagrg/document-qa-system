@@ -1,11 +1,11 @@
-This is my first AI project, built as a learning experience from scratch. The goal of this project is simple:
+This is my AI project, built as a learning experience from scratch. The goal of this project is simple:
 
 > Upload a PDF → Ask questions → Get accurate answers from the document
 
 This project is designed and documented **for beginners**, especially for someone who is **not an AI engineer** and is learning concepts like embeddings, chunking, retrieval, tokens, and context windows for the first time.
 
 
-## 🚀 What This Project Does
+## What This Project Does
 
 - Users upload a **PDF document**
 - The system **reads and splits (chunks)** the document
